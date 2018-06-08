@@ -20,13 +20,13 @@ This is sample application built using Native login SDK/framework for basic auth
      
      2. Use DNAAuthenticationManager Class to get instance of DNALoginViewController to use it according to end developers requirement.
         
-  ![alt text](https://github.com/CiscoDevNet/DNAC-SWIFT-SDK/images/LoginViewControllerExample.png)
+  ![alt text](https://github.com/CiscoDevNet/DNAC-SWIFT-SDK/blob/master/images/LoginViewControllerExample.png)
 
      
      3. Use DNALoginViewControllerDelegate and confirm to <dnaLoginViewControllerInstance>.delegate for receiving callbacks from DNALoginViewController.
      
      
-   ![alt text](https://github.com/CiscoDevNet/DNAC-SWIFT-SDK/images/DNALoginViewControllerDelegate.png)
+   ![alt text](https://github.com/CiscoDevNet/DNAC-SWIFT-SDK/blob/master/images/DNALoginViewControllerDelegate.png)
    
    
    4. 	DNALoginViewControllerDelegate Callback Methods Details :
@@ -38,4 +38,4 @@ This is sample application built using Native login SDK/framework for basic auth
       authenticationDidFail(): Gets invoked if authentication process failed.
       
  
- ![alt text](https://github.com/CiscoDevNet/DNAC-SWIFT-SDK/images/DNALoginViewControllerDelegateCB.png)
+ ![alt text](https://github.com/CiscoDevNet/DNAC-SWIFT-SDK/blob/master/images/DNALoginViewControllerDelegateCB.png)
