@@ -1,8 +1,6 @@
-# DNATestApplication-With-IOS-Auth-Framework
+# DNAC-IOS-Auth-Framework
 
-This is sample application built using Native login SDK/framework for basic authentication and following API endpoints is used to list DNAC network devices. 
-
-/api/v1/network-device
+This is sample Native login SDK/framework for basic authentication 
 
 # Installation and Setup:
    

@@ -1,0 +1,11 @@
+framework module DNAAuthentication {
+  umbrella header "DNAAuthentication.h"
+
+  export *
+  module * { export * }
+}
+
+module DNAAuthentication.Swift {
+    header "DNAAuthentication-Swift.h"
+    requires objc
+}
